@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on leaving no unknown thing in the corridors of TypeScript.
+- 🌱 I’m currently trying to enhance my intellectual knowledge about financial systems and the economy.
+- 👯 I enjoy contributing to projects that I have little idea how to do. I get bored when doing things that I know how to do.
+- 📫 How to reach me: onurkilic5@gmail.com
+
 <!--
 **OnurKlc/OnurKlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
