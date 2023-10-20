@@ -3,7 +3,7 @@
 - 🔭 I am currently trying to leave no unknown thing in the corridors of TypeScript.
 - 🌱 I’m currently trying to enhance my intellectual knowledge about financial systems and the economy.
 - 👯 I enjoy contributing to projects that I have little idea how to do. I get bored when doing things that I know how to do.
-- - ⚡ Fun fact: I am better than what the repositories here demonstrate.
+- ⚡ Fun fact: I am better than what the repositories here demonstrate.
 - 📫 How to reach me: onurkilic5@gmail.com
 
 <!--
