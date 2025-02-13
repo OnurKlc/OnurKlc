@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🔭 I am currently trying to leave no unknown thing in the corridors of TypeScript.
-- 🌱 I’m currently trying to enhance my intellectual knowledge about financial systems and the economy.
-- 👯 I enjoy contributing to projects that I have little idea how to do. I get bored when doing things that I know how to do.
-- 📫 How to reach me: onurkilic5@gmail.com
-
 <!--
 **OnurKlc/OnurKlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! 👋
+
+I'm a Frontend Developer who loves building things.
+
+- 🎯 I enjoy solving problems and making web apps faster and smoother.
+- 🛠️ I like learning new technologies, even if I have no idea what I'm doing at first.
+- ☕ I drink way too much tea while coding.
+- 🎣 I'm trying to get better at fishing, but the fish seem to be smarter than me.
+- 📈 I'm interested in finance and sometimes try to predict market trends (mostly fail!).
+
+Always happy to collaborate on cool projects!
+
+📬 Reach me at onurkilic5@gmail.com
